@@ -1,1 +1,3 @@
 /docs/*.csv
+/lib
+/.ipynb_checkpoints
