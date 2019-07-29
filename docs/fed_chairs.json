@@ -1,0 +1,66 @@
+[
+  {
+    "first_name": "Jerome",
+    "last_name": "Powell",
+    "start_date": "2018-02-05",
+    "end_date": null,
+    "meetings": [
+      {
+        "date": "2019-07-30",
+        "current_fed_funds": {
+          "upper": 0.025,
+          "lower": 0.0225
+        },
+        "new_fed_funds": {
+          "upper": 0.0225,
+          "lower": 0.02
+        },
+        "rate_change": true
+      },
+      {
+        "date": "2019-06-15",
+        "current_fed_funds": {
+          "upper": 0.025,
+          "lower": 0.0225
+        },
+        "new_fed_funds": {
+          "upper": 0.025,
+          "lower": 0.0225
+        },
+        "rate_change": false
+      }
+    ]
+  },
+  {
+    "first_name": "Janet",
+    "last_name": "Yellen",
+    "start_date": "2014-02-03",
+    "end_date": "2018-02-03",
+    "meetings": [
+      {
+        "date": "2014-09-30",
+        "current_fed_funds": {
+          "upper": 0.01,
+          "lower": 0.0075
+        },
+        "new_fed_funds": {
+          "upper": 0.0125,
+          "lower": 0.01
+        },
+        "rate_change": true
+      },
+      {
+        "date": "2014-06-15",
+        "current_fed_funds": {
+          "upper": 0.0075,
+          "lower": 0.005
+        },
+        "new_fed_funds": {
+          "upper": 0.01,
+          "lower": 0.0075
+        },
+        "rate_change": true
+      }
+    ]
+  }
+]
